@@ -35,4 +35,4 @@ El proyecto implementa diversos modelos de aprendizaje automático:
 
 ## ✒️ Autor
 
-**Nicolás Cabello Alonso** *Curso de Especialización en Inteligencia Artificial y Big Data* *Sistemas de Big Data y Aprendizaje Automático* **IES Azarquiel**
+**Nicolás Cabello Alonso** *Curso de Especialización en Inteligencia Artificial y Big Data* **IES Azarquiel**
